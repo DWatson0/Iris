@@ -14,7 +14,7 @@ This project uses a neural network built with TensorFlow/Keras to classify iris 
 - Hidden layers:
   - Dense(32), ReLU
   - Dense(8), ReLU
-- Output: Dense(4) (used with `SparseCategoricalCrossentropy` and `from_logits=True`)
+- Output: Dense(3) (used with `SparseCategoricalCrossentropy` and `from_logits=True`)
 
 # Results
 
